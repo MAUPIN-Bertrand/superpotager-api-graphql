@@ -1,0 +1,9 @@
+jwt:
+  secret: "topSecret51"
+
+server:
+  secret: "topSecret102"
+
+database:
+  session: "mongodb://localhost/superpotager-sessions"
+  root: "mongodb://localhost/superpotager"
